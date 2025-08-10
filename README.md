@@ -1,7 +1,5 @@
 # Recon_Master
 
-# Recon_Master v4.4
-
 A comprehensive cybersecurity reconnaissance tool for subdomain enumeration, live host detection, port scanning, vulnerability scanning, malware scanning, and DNS enumeration. Ideal for security researchers and penetration testers.
 
 ## Features
@@ -24,3 +22,5 @@ A comprehensive cybersecurity reconnaissance tool for subdomain enumeration, liv
    go install -v github.com/OWASP/Amass/v3/...@master
    go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
    sudo apt install theharvester
+
+
